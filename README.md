@@ -3,6 +3,8 @@ Computational tool designed to simulate and analyze orbital transfer maneuvers u
 
 I developed this tool primarily for academic use, research support, and aerospace education. The tool calculate all possible parameters and evaluates transfer efficiencies between circular or elliptical orbits with visual output to enable better understanding of transfer arcs, intermediate orbits, and burn locations.
 
+![Orbital Mechanics](figures/Orbital_motion.gif)
+
 ## 🚀 Features
 - Accurate delta-V computation
 - Visual orbit plotting in 3D
