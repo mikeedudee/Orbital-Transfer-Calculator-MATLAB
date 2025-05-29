@@ -17,4 +17,10 @@ I developed this tool primarily for academic use, research support, and aerospac
 
 - ## Sample Simulation
 - Bi-Elliptical Transfer
-- ![Hohmann Transfer Plot](figures/bielliptic.jpg)
+![Bi-Elliptical Transfer Plot](figures/bielliptic.jpg)
+
+- Hohmman Transfer
+![Hohmman Transfer Plot](figures/hohmman.jpg)
+
+- One Tangent Transfer
+![One Tangent Transfer Plot](figures/onetangent.jpg)
