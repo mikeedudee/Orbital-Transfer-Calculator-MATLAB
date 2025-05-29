@@ -15,7 +15,7 @@ I developed this tool primarily for academic use, research support, and aerospac
 - ## 🛠 Requirements
 - MATLAB R2021a or later
 
-- ## Sample Simulation
+- ## 📈 Sample Simulation
 - Bi-Elliptical Transfer
 ![Bi-Elliptical Transfer Plot](figures/bielliptic.jpg)
 
