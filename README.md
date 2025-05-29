@@ -14,3 +14,7 @@ I developed this tool primarily for academic use, research support, and aerospac
 
 - ## 🛠 Requirements
 - MATLAB R2021a or later
+
+- ## Sample Simulation
+- Bi-Elliptical Transfer
+- ![Hohmann Transfer Plot](figures/bielliptic.jpg)
