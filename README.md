@@ -25,7 +25,7 @@ I developed this tool primarily for academic use, research support, and aerospac
 ![One Tangent Transfer Plot](figures/onetangent.jpg)
 
 ### Read the paper:
-[Documentation](docs/Modular Orbital Mechanics Toolkit for Transfer Strategy Evaluation in Earth-Centric Orbits.pdf)
+[Documentation](docs/Modular Orbital Mechanics Toolkit for Transfer Strategy Evaluation in Earth-Centric Orbits.docx)
 
 - ## 🛠 Requirements
 - MATLAB R2021a or later
