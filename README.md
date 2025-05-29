@@ -14,7 +14,7 @@ I developed this tool primarily for academic use, research support, and aerospac
 - Calculation of Eccentricity
 - Transfer time
 
-- ## 📈 Sample Simulation
+## 📈 Sample Simulation
 - ### Bi-Elliptical Transfer
 ![Bi-Elliptical Transfer Plot](figures/bielliptic.jpg)
 
@@ -24,8 +24,8 @@ I developed this tool primarily for academic use, research support, and aerospac
 - ### One Tangent Transfer
 ![One Tangent Transfer Plot](figures/onetangent.jpg)
 
-### Read the paper:
+## Read the paper:
 [Modular Orbital Mechanics Toolkit for Transfer Strategy Evaluation in Earth-Centric Orbits](https://www.researchgate.net)
 
-- ## 🛠 Requirements
+## 🛠 Requirements
 - MATLAB R2021a or later
