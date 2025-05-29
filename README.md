@@ -12,15 +12,17 @@ I developed this tool primarily for academic use, research support, and aerospac
 - Calculation of Eccentricity
 - Transfer time
 
-- ## 🛠 Requirements
-- MATLAB R2021a or later
+
 
 - ## 📈 Sample Simulation
-- Bi-Elliptical Transfer
+- ### Bi-Elliptical Transfer
 ![Bi-Elliptical Transfer Plot](figures/bielliptic.jpg)
 
-- Hohmman Transfer
+- ### Hohmman Transfer
 ![Hohmman Transfer Plot](figures/hohmman.jpg)
 
-- One Tangent Transfer
+- ### One Tangent Transfer
 ![One Tangent Transfer Plot](figures/onetangent.jpg)
+
+- ## 🛠 Requirements
+- MATLAB R2021a or later
