@@ -19,10 +19,10 @@ Just open the main.m in any MATLAB version no lower than R2021a.
 
 ## 📈 Sample Simulation
 - ### Bi-Elliptical Transfer
-![Bi-Elliptical Transfer Plot](figures/bielliptic.jpg)
+![Bi-Elliptical Transfer Plot](figures/bielliptic.png)
 
 - ### Hohmman Transfer
-![Hohmman Transfer Plot](figures/hohmman.jpg)
+![Hohmman Transfer Plot](figures/hohmanntransfer.png)
 
 - ### One Tangent Transfer
 ![One Tangent Transfer Plot](figures/onetangent.jpg)
