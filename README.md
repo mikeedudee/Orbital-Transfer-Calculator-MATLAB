@@ -5,6 +5,9 @@ I developed this tool primarily for academic use, research support, and aerospac
 
 ![Orbital Mechanics](figures/Orbital_motion.gif)
 
+## User-Manual
+Just open the main.m in any MATLAB no lower than R2021a version.
+
 ## 🚀 Features
 - Accurate delta-V computation
 - Visual orbit plotting in 3D
