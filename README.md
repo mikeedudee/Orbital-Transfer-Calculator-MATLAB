@@ -28,7 +28,7 @@ Just open the main.m in any MATLAB version no lower than R2021a.
 ![One Tangent Transfer Plot](figures/onetangent.jpg)
 
 ## Read the paper:
-[Modular Orbital Mechanics Toolkit for Transfer Strategy Evaluation in Earth-Centric Orbits](https://www.researchgate.net)
+[Modular Orbital Mechanics Toolkit for Transfer Strategy Evaluation in Earth-Centric Orbits](https://www.researchgate.net/publication/392228466_Modular_Orbital_Mechanics_Toolkit_for_Transfer_Strategy_Evaluation_in_Earth-Centric_Orbits_1st_Edition)
 
 ## 🛠 Requirements
 - MATLAB R2021a or later
